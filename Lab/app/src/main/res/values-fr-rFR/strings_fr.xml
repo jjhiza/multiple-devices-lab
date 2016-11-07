@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question">QQui est le plus grand club de football au monde?</string>
+    <string name="answer">Real Madrid!</string>
+    <string name="button">Cliquez sur</string>
+</resources>

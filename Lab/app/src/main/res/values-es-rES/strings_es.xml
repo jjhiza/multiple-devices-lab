@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question">Quien es el mejor club de futbol del mundo?</string>
+    <string name="answer">Real Madrid!</string>
+    <string name="button">Hacer clic</string>
+</resources>
